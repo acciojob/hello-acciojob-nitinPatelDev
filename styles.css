@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+/* Styling for the main element */
+main.accio#job {
+    width: 150px;
+    height: 150px;
+    background-color: #000000; /* Black background */
+    display: flex;
+    align-items: center; /* Center content vertically */
+    justify-content: center; /* Center content horizontally */
+}
+
+/* Styling for the paragraph with the hello-accio class */
+p.hello-accio {
+    color: #ffffff; /* White text color */
+    margin-left: 32px; /* Left margin */
+    padding: 10px; /* Padding on all sides */
+    font-family: Arial, sans-serif; /* Optional: improve readability */
+}
